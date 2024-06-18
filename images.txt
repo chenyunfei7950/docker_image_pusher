@@ -1,1 +1,1 @@
-jaegertracing/jaeger-es-index-cleaner:latest
+jenkins/jenkins:2.452.2-lts-jdk17
