@@ -1,1 +1,1 @@
-jenkins/jenkins:2.452.2-lts-jdk17
+python:3.7.4
