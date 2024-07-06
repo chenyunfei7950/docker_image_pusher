@@ -1,1 +1,1 @@
---platform=linux/arm64 yimik/kkfileview
+node:20.15.0
