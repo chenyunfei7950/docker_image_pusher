@@ -1,4 +1,4 @@
-elasticsearch:8.13.0
-jaegertracing/jaeger-collector:1.56
-jaegertracing/jaeger-agent:1.56
-jaegertracing/jaeger-query:1.56
+elasticsearch:8.14.3
+jaegertracing/jaeger-collector:1.59
+jaegertracing/jaeger-agent:1.59
+jaegertracing/jaeger-query:1.59
