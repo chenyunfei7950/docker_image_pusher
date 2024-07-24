@@ -1,4 +1,2 @@
-elasticsearch:8.14.3
-jaegertracing/jaeger-collector:1.59
-jaegertracing/jaeger-agent:1.59
-jaegertracing/jaeger-query:1.59
+gradle:8.7.0-jdk21-alpine
+liberica-openjre-alpine:21.0.2
