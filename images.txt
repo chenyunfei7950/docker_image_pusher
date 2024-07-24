@@ -1,2 +1,2 @@
 gradle:8.7.0-jdk21-alpine
-liberica-openjre-alpine:21.0.2
+bellsoft/liberica-openjre-alpine:21.0.2
