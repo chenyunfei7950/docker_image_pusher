@@ -1,2 +1,1 @@
-tdengine/tdengine:3.3.3.0
-tdengine/tdengine:3.3.4.3
+portainer/agent:2.17.1
