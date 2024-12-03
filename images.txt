@@ -1,1 +1,1 @@
-jenkins/jenkins:2.479.2-lts-jdk17
+tdengine/tdengine:3.3.4.8
