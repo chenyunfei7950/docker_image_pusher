@@ -1,2 +1,2 @@
-node:20.13.1
-
+gradle:8.7.0-jdk21-alpine
+bellsoft/liberica-openjre-alpine:21.0.2
