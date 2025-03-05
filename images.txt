@@ -1,1 +1,1 @@
-node:12.22.10-alpine
+jenkins/jenkins:2.492.1-lts-jdk17
