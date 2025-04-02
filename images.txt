@@ -1,1 +1,1 @@
-jenkins/jenkins:2.492.2-lts-jdk17
+python:3.11-slim
