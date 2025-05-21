@@ -1,2 +1,2 @@
-sophgo/tpuc_dev:v3.4
+ubuntu:20.04
 
