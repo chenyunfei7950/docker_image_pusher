@@ -1,2 +1,2 @@
-ubuntu:20.04
+mariadb:10.6
 
