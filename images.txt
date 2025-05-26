@@ -1,2 +1,1 @@
-mariadb:10.6
-
+docker pull moby/buildkit:buildx-stable-1
