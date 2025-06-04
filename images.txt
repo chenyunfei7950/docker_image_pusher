@@ -1,1 +1,1 @@
-ultralytics/ultralytics:latest-python
+ultralytics/ultralytics:8.3.149
