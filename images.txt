@@ -1,1 +1,1 @@
-jenkins/jenkins:2.516.1-lts-jdk21
+lmsysorg/sglang:v0.4.7.post1-cu124
