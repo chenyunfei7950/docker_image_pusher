@@ -1,2 +1,2 @@
-mcr.microsoft.com/dotnet/sdk:8.0-noble
+jenkins/jenkins:2.516.2-lts-jdk21
 
