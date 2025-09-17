@@ -1,2 +1,2 @@
-jenkins/jenkins:2.516.2-lts-jdk21
+docker:28.4.0-dind
 
