@@ -1,2 +1,2 @@
-docker:28.4.0-dind
-
+nginx:1.29.1
+nginx:1.29.1-alpine3.22
