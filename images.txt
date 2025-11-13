@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.5.2-cu126
+--platform=linux/arm64 ghcr.io/astral-sh/uv:python3.12-bookworm-slim
