@@ -1,1 +1,1 @@
---platform=linux/arm64 milvusdb/milvus:v2.5.23-20251119-0ddc9c94-arm64
+jenkins/jenkins:2.516.2-lts-jdk21
