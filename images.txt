@@ -1,1 +1,1 @@
-jenkins/jenkins:2.528.2-lts-jdk21
+sonatype/nexus3:3.87.1
