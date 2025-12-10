@@ -1,1 +1,1 @@
-sonatype/nexus3:3.70.4
+bellsoft/liberica-openjdk-debian:1.8.0
