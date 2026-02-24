@@ -1,2 +1,2 @@
-portainer/portainer-ce:2.33.6
+jenkins/jenkins:2.541.2-lts-jdk21
 
