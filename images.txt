@@ -1,2 +1,2 @@
-pytorch/manylinux2_28-builder:cuda12.6
+vllm/vllm-openai:v0.17.0-cu130
 
