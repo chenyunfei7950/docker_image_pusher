@@ -1,3 +1,1 @@
---platform=linux/arm64 apache/rocketmq:5.4.0
---platform=linux/arm64 redis:8.6.2
---platform=linux/arm64 rustfs/rustfs:1.0.0-alpha.93
+--platform=linux/arm64 apacherocketmq/rocketmq-dashboard:2.1.0
