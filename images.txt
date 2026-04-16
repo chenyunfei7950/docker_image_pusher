@@ -1,1 +1,3 @@
---platform=linux/arm64 apacherocketmq/rocketmq-dashboard:2.1.0
+--platform=linux/arm64 bellsoft/liberica-openjre-alpine:21.0.10
+--platform=linux/arm64 bellsoft/liberica-openjdk-alpine:21.0.10
+
