@@ -1,2 +1,2 @@
---platform=linux/arm64 apache/skywalking-ui:10.4.0-java21
+--platform=linux/arm64 apache/skywalking-oap-server:10.4.0-java21
 
