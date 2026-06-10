@@ -1,3 +1,4 @@
-tdengine/tsdb:3.4.1.6
+vllm/vllm-openai:v0.22.1-cu129
+
 
 
