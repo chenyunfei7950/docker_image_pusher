@@ -1,1 +1,1 @@
-jenkins/jenkins:2.555.3-lts-jdk21
+postgres:16.14-trixie
