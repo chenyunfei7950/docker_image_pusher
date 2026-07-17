@@ -1,1 +1,2 @@
-postgres:16.14-trixie
+vllm/vllm-openai:vllm-x86_64-cu13-0.25.1-634ec28
+
