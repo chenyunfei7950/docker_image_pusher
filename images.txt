@@ -1,2 +1,1 @@
-vllm/vllm-openai:vllm-x86_64-cu13-0.25.1-634ec28
-
+jenkins/jenkins:2.568.1-lts-jdk21
