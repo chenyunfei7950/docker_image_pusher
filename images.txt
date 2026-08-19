@@ -1,1 +1,2 @@
-tonistiigi/binfmt:qemu-v10.2.3-68
+tonistiigi/binfmt:latest
+
