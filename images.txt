@@ -1,6 +1,1 @@
-jenkins/jenkins:2.568.2-lts-jdk21
-
-
-
-
-
+tonistiigi/binfmt:qemu-v10.2.3-68
