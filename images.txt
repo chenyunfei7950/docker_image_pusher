@@ -1,1 +1,1 @@
-eugr/spark-vllm-b12x:latest
+eugr/spark-vllm:latest
