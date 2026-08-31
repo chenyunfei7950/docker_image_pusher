@@ -1,1 +1,1 @@
-nvidia/cuda:12.6.2-cudnn-runtime-ubuntu22.04
+eugr/spark-vllm-b12x:latest
