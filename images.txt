@@ -1,1 +1,1 @@
-eugr/spark-vllm:latest
+vllm/vllm-openai:qwen38-flash-next
