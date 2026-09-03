@@ -1,1 +1,2 @@
-vllm/vllm-openai:qwen38-flash-next
+jenkins/jenkins:2.568.3-lts-jdk21
+
