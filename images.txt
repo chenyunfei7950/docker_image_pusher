@@ -1,2 +1,2 @@
-jenkins/jenkins:2.568.3-lts-jdk21
+--platform=linux/arm64 lmsysorg/sglang:dev-qwen38-next-local
 
