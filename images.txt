@@ -1,2 +1,2 @@
---platform=linux/arm64 lmsysorg/sglang:dev-qwen38-next-local
+nvcr.io/nvidia/pytorch:26.07-py3
 
