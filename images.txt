@@ -1,2 +1,2 @@
-nvcr.io/nvidia/pytorch:26.07-py3
+vllm/vllm-openai:v0.32.0-ubuntu2404
 
