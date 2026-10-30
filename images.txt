@@ -1,3 +1,4 @@
-nvidia/cuda:13.0.3-devel-ubuntu24.04
+vllm/vllm-openai:v0.22.0-ubuntu2404
+
 
 
