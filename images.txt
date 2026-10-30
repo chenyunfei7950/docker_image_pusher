@@ -1,4 +1,4 @@
-vllm/vllm-openai:v0.21.0-ubuntu2404
+nginx:1.30.6-alpine3.24
 
 
 
