@@ -1,1 +1,2 @@
-jenkins/jenkins:2.580.2-lts-jdk25
+--platform=linux/arm64 python:3.12.16-slim
+
