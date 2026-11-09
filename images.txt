@@ -1,2 +1,2 @@
---platform=linux/arm64 postgres:16.15-trixie
+--platform=linux/arm64 pgvector/pgvector:0.8.7-pg16-trixie
 
