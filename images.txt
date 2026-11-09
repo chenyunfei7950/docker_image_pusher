@@ -1,2 +1,2 @@
---platform=linux/arm64 python:3.12.16-slim
+--platform=linux/arm64 postgres:16.15-trixie
 
