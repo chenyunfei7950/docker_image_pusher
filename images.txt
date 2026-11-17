@@ -1,2 +1,2 @@
---platform=linux/arm64 pgvector/pgvector:0.8.7-pg16-trixie
+qwenllm/qwen3-asr:latest
 
